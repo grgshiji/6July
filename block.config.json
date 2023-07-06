@@ -1,0 +1,39 @@
+{
+  "name": "6July",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/6July.git",
+    "ssh": "git@github.com:grgshiji/6July.git",
+    "branch": "block_6July"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "Member_Fn_Block": {
+      "directory": "Member_Fn_Block"
+    }
+  },
+  "blockId": "-39ev0B9KxLEokfbFFmEz",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
