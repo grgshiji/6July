@@ -1,8 +1,8 @@
 {
   "type": "function",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/grgshiji/6July.git",
+    "ssh": "git@github.com:grgshiji/6July.git",
     "branch": "block_removeTodo"
   },
   "language": "nodejs",

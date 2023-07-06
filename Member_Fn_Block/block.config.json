@@ -3,8 +3,8 @@
   "name": "Member_Fn_Block",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/6July.git",
+    "ssh": "git@github.com:grgshiji/6July.git",
     "branch": "block_Member_Fn_Block"
   },
   "parentBlockIDs": [
